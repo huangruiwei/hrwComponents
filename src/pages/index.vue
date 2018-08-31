@@ -4,7 +4,7 @@
 **/
 <template>
   <div>
-
+    <comHeader></comHeader>
   </div>
 </template>
 
